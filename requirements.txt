@@ -1,0 +1,3 @@
+streamlit
+requests
+load_dotenv
